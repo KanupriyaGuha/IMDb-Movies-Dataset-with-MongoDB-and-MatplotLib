@@ -44,3 +44,6 @@ This project demonstrates how to use MongoDB, a distributed NoSQL database, for 
 4. Aggregated top 10 movie genres using MongoDB aggregation framework
 5. Visualized the result using `matplotlib`
 
+##  Dataset
+✅ Format: TSV (structured, parsed by pandas)
+✅ Size: IMDb title.basics.tsv + title.ratings.tsv → combined dataset with 100,000+ rows and 7+ columns after cleaning.
